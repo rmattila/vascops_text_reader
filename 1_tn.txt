@@ -1,0 +1,56 @@
+ Responsible Author:              
+-----------------------------------------------
+Name:                                          Karolinska Users
+Institution:                                   Karolinska Institutet
+
+Image Properties:            
+-----------------------------------------------
+Image dimensions:                              512 x 512 x 477
+Image offset:                                  0/0/0
+Region of interest:                            slice 0-476
+Pixel spacing:                                 0.834 x 0.834 x 0.500 [mm]
+Slice thickness:                               0.500 [mm]
+
+Patient Properties           
+-----------------------------------------------
+
+Patient Name:                                  Anonymous Male 1933
+Patient Alias:                                 BANK1
+Patient ID:                                    ANON5M62PA1B
+Acquisition Date:                              20090116
+Age:                                           65
+Gender:                                        male
+Arterial Pressure:                             140/80 [mmHg]
+Arterial Pressure (Long-Time):                 140/80 [mmHg]
+AAA in Family History:                         no
+Smoking:                                       no
+Normal Infrarenal Aortic Diameter:             20 [mm]
+
+
+      Geometrical Properties:          
+-----------------------------------------------
+Max. Exterior AAA Diameter                   = 74.6(75.0) [mm]
+Max. Luminal AAA Diameter                    = 49.7 [mm]
+Max. ILT Thickness                           = 47.7 [mm]
+Tot. Vessel Volume                           = 412.0 [cm³]
+Tot. Lumen Volume                            = 128.4 [cm³]
+Tot. ILT Volume                              = 242.9 [cm³]
+
+       Mechanical Properties:                    
+  Note that the mechanical properties do only apply to abdominal aortic aneurysms   
+  and for all other vascular bodies these parameters must not be considered!
+-----------------------------------------------
+Considered Spherical Radius for Averaging    = 5.00 [mm]
+Considered Average Nodes    for Averaging    = 14
+FE-mesh:                                     = 13586 nodes 11075 elements
+
+Max. v. Mises Stress in the AAA Wall (PWS)   = 251.1 [kPa]
+Mean v. Mises Stress in the AAA Wall         = 128.67 ±39.26 [kPa]
+Max. Rupture Risk Index in the Wall (PWRR)   = 0.467
+Rupture Risk Equivalent Diameter (RRED)      = 54.4 [mm]
+Mean Rupture Risk Index in the Wall          = 0.3 ±0.1
+Max. v. Mises Stress in the AAA ILT          = 38.5 [kPa]
+Mean v. Mises Stress in the AAA ILT          = 8.0 ±3.5 [kPa]
+Max. Rupture Risk Index in the ILT           = 0.7 []
+Mean Rupture Risk Index in the ILT           = 0.2 ±0.1
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
